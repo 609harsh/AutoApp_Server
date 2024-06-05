@@ -4,7 +4,7 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 
 const generateInviteURL = (userId: string, invitationToken: string) => {
-  const host = 'http://localhost:5173';
+  const host = 'https://auto-app-client.vercel.app';
   
   const subpath = 'login';
 
