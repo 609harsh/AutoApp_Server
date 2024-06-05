@@ -3,6 +3,9 @@
 
 API for Auto-App-Client. This API is creaeted using Nestjs framework. It provides support authorization,authentication,CRUD operation on app and dashboard. It uses PostgreSQL for Database and TypeORM for querying database.
 
+### Hosted API LINK
+https://autoapp-server.onrender.com/
+
 ## Installation
 
 ```bash
